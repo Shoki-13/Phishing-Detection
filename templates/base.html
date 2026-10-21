@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{% block title %}PhishGuard{% endblock %}</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🛡️</text></svg>">
+</head>
+<body class="{% block body_class %}{% endblock %}">
+<div class="page">
+  <header class="topbar">
+    <a href="{{ url_for('index') }}" class="brand">
+      <span class="mark">🛡</span> PhishGuard
+    </a>
+    <nav class="nav-links">
+      {% if current_user %}
+        <a href="{{ url_for('dashboard') }}" class="{{ 'active' if request.endpoint == 'dashboard' }}">Dashboard</a>
+        <a href="{{ url_for('analyze') }}" class="{{ 'active' if request.endpoint in ['analyze','analyze_prefilled'] }}">Analyze</a>
+        <a href="{{ url_for('samples') }}" class="{{ 'active' if request.endpoint == 'samples' }}">Samples</a>
+      {% endif %}
+    </nav>
+    <div class="nav-cta">
+      {% if current_user %}
+        <span class="muted">Hi, {{ current_user['name'].split(' ')[0] }}</span>
+        <a href="{{ url_for('logout') }}" class="btn btn-ghost">Sign out</a>
+      {% else %}
+        <a href="{{ url_for('login') }}" class="btn btn-ghost">Sign in</a>
+        <a href="{{ url_for('register') }}" class="btn btn-primary">Create account</a>
+      {% endif %}
+    </div>
+  </header>
+
+  <main class="{% block main_class %}container{% endblock %}">
+    {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+        <ul class="flash-list">
+        {% for category, message in messages %}
+          <li class="flash flash-{{ category }}">{{ message }}</li>
+        {% endfor %}
+        </ul>
+      {% endif %}
+    {% endwith %}
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer class="site-footer">
+    PhishGuard: smart phishing detection, built for learning and for real inboxes alike.
+  </footer>
+</div>
+
+</body>
+</html>

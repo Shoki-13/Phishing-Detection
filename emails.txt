@@ -1,0 +1,250 @@
+ham	Hi, Hope you're doing well. The meeting is moved to 3pm in room 204. Thanks, Alex
+spam	Subject: URGENT: Verify your account now - Click the link below to verify your identity within 24 hours or your account will be closed. Act now: http://secure-verify-account.com
+ham	Hello, Just following up on our last chat. Please find the invoice for last month attached. Regards, Priya
+spam	Subject: Your account has been suspended - We detected unauthorized access. Confirm your details at the secure link to restore access. Verify immediately: http://login-update-support.net
+ham	Hey, Quick question for you. Lunch tomorrow at the usual place? Cheers, Sam
+spam	Subject: You have won a $1000 gift card - Congratulations! You've been selected. Provide your bank details to claim your reward. Claim your prize: http://bit.ly/3xPh1sh
+ham	Dear, Wanted to share a small update. The project timeline looks good to me. Best, Jordan
+spam	Subject: Action required: Confirm your password - Verify your password now to avoid permanent suspension. Login to continue: http://paypa1-secure.ru
+ham	Good morning, Thanks for your quick reply yesterday. Let me know if Thursday works for the call. Talk soon, Taylor
+spam	Subject: Final notice: Payment failed - Your payment could not be processed. Update your billing information immediately. Update your info: http://account-verify.xyz
+ham	Hi, Hope you're doing well. Here are the notes from this morning's standup. Regards, Morgan
+spam	Subject: Suspicious login detected - click here - We detected unauthorized access. Confirm your details at the secure link to restore access. Click here now: http://tinyurl.com/fake-bank
+ham	Hello, Just following up on our last chat. Reminder: team sync is at 10am. Cheers, Chris
+spam	Subject: Your package could not be delivered - Your account will be deactivated unless you login through the link below. Verify immediately: http://secure-verify-account.com
+ham	Hey, Quick question for you. I'll be out of office on Friday. Best, Priya
+spam	Subject: Claim your refund immediately - A refund of $499 is waiting. Submit your card number to receive it. Claim your prize: http://login-update-support.net
+ham	Dear, Wanted to share a small update. Can you review the draft when you get a chance? Thanks, Liam
+spam	Subject: Your mailbox is almost full - Reset your credentials using the link below to prevent lockout. Act now: http://bit.ly/3xPh1sh
+ham	Good morning, Thanks for your quick reply yesterday. The meeting is moved to 3pm in room 204. Regards, Nina
+spam	Subject: Security alert: Unusual activity - Download the attached invoice to avoid legal action. Login to continue: http://paypa1-secure.ru
+ham	Hi, Hope you're doing well. Please find the invoice for last month attached. Cheers, Omar
+spam	Subject: URGENT: Verify your account now - Confirm your SSN and date of birth to unlock your account. Update your info: http://account-verify.xyz
+ham	Hello, Just following up on our last chat. Lunch tomorrow at the usual place? Best, Alex
+spam	Subject: Your account has been suspended - Click the link below to verify your identity within 24 hours or your account will be closed. Claim your prize: http://tinyurl.com/fake-bank
+ham	Hey, Quick question for you. The project timeline looks good to me. Talk soon, Sam
+spam	Subject: You have won a $1000 gift card - We detected unauthorized access. Confirm your details at the secure link to restore access. Click here now: http://secure-verify-account.com
+ham	Dear, Wanted to share a small update. Let me know if Thursday works for the call. Thanks, Jordan
+spam	Subject: Action required: Confirm your password - Your payment could not be processed. Update your billing information immediately. Verify immediately: http://login-update-support.net
+ham	Good morning, Thanks for your quick reply yesterday. Here are the notes from this morning's standup. Regards, Taylor
+spam	Subject: Final notice: Payment failed - Your account will be deactivated unless you login through the link below. Act now: http://bit.ly/3xPh1sh
+ham	Hi, Hope you're doing well. Reminder: team sync is at 10am. Cheers, Morgan
+spam	Subject: Suspicious login detected - click here - A refund of $499 is waiting. Submit your card number to receive it. Login to continue: http://paypa1-secure.ru
+ham	Hello, Just following up on our last chat. I'll be out of office on Friday. Best, Chris
+spam	Subject: Your package could not be delivered - Reset your credentials using the link below to prevent lockout. Update your info: http://account-verify.xyz
+ham	Hey, Quick question for you. Can you review the draft when you get a chance? Talk soon, Priya
+spam	Subject: Claim your refund immediately - Download the attached invoice to avoid legal action. Claim your prize: http://tinyurl.com/fake-bank
+ham	Dear, Wanted to share a small update. The meeting is moved to 3pm in room 204. Thanks, Liam
+spam	Subject: Your mailbox is almost full - Confirm your SSN and date of birth to unlock your account. Click here now: http://secure-verify-account.com
+ham	Good morning, Thanks for your quick reply yesterday. Please find the invoice for last month attached. Regards, Nina
+spam	Subject: Security alert: Unusual activity - Click the link below to verify your identity within 24 hours or your account will be closed. Verify immediately: http://login-update-support.net
+ham	Hi, Hope you're doing well. Lunch tomorrow at the usual place? Cheers, Omar
+spam	Subject: URGENT: Verify your account now - We detected unauthorized access. Confirm your details at the secure link to restore access. Act now: http://bit.ly/3xPh1sh
+ham	Hello, Just following up on our last chat. The project timeline looks good to me. Best, Alex
+spam	Subject: Your account has been suspended - Your payment could not be processed. Update your billing information immediately. Login to continue: http://paypa1-secure.ru
+ham	Hey, Quick question for you. Let me know if Thursday works for the call. Talk soon, Sam
+spam	Subject: You have won a $1000 gift card - Your account will be deactivated unless you login through the link below. Update your info: http://account-verify.xyz
+ham	Dear, Wanted to share a small update. Here are the notes from this morning's standup. Thanks, Jordan
+spam	Subject: Action required: Confirm your password - A refund of $499 is waiting. Submit your card number to receive it. Claim your prize: http://tinyurl.com/fake-bank
+ham	Good morning, Thanks for your quick reply yesterday. Reminder: team sync is at 10am. Regards, Taylor
+spam	Subject: Final notice: Payment failed - Reset your credentials using the link below to prevent lockout. Click here now: http://secure-verify-account.com
+ham	Hi, Hope you're doing well. I'll be out of office on Friday. Cheers, Morgan
+spam	Subject: Suspicious login detected - click here - Download the attached invoice to avoid legal action. Verify immediately: http://login-update-support.net
+ham	Hello, Just following up on our last chat. Can you review the draft when you get a chance? Best, Chris
+spam	Subject: Your package could not be delivered - Confirm your SSN and date of birth to unlock your account. Act now: http://bit.ly/3xPh1sh
+ham	Hey, Quick question for you. The meeting is moved to 3pm in room 204. Talk soon, Priya
+spam	Subject: Claim your refund immediately - Click the link below to verify your identity within 24 hours or your account will be closed. Login to continue: http://paypa1-secure.ru
+ham	Dear, Wanted to share a small update. Please find the invoice for last month attached. Thanks, Liam
+spam	Subject: Your mailbox is almost full - We detected unauthorized access. Confirm your details at the secure link to restore access. Update your info: http://account-verify.xyz
+ham	Good morning, Thanks for your quick reply yesterday. Lunch tomorrow at the usual place? Regards, Nina
+spam	Subject: Security alert: Unusual activity - Your payment could not be processed. Update your billing information immediately. Claim your prize: http://tinyurl.com/fake-bank
+ham	Hi, Hope you're doing well. The project timeline looks good to me. Cheers, Omar
+spam	Subject: URGENT: Verify your account now - Your account will be deactivated unless you login through the link below. Click here now: http://secure-verify-account.com
+ham	Hello, Just following up on our last chat. Let me know if Thursday works for the call. Best, Alex
+spam	Subject: Your account has been suspended - A refund of $499 is waiting. Submit your card number to receive it. Verify immediately: http://login-update-support.net
+ham	Hey, Quick question for you. Here are the notes from this morning's standup. Talk soon, Sam
+spam	Subject: You have won a $1000 gift card - Reset your credentials using the link below to prevent lockout. Act now: http://bit.ly/3xPh1sh
+ham	Dear, Wanted to share a small update. Reminder: team sync is at 10am. Thanks, Jordan
+spam	Subject: Action required: Confirm your password - Download the attached invoice to avoid legal action. Login to continue: http://paypa1-secure.ru
+ham	Good morning, Thanks for your quick reply yesterday. I'll be out of office on Friday. Regards, Taylor
+spam	Subject: Final notice: Payment failed - Confirm your SSN and date of birth to unlock your account. Update your info: http://account-verify.xyz
+ham	Hi, Hope you're doing well. Can you review the draft when you get a chance? Cheers, Morgan
+spam	Subject: Suspicious login detected - click here - Click the link below to verify your identity within 24 hours or your account will be closed. Claim your prize: http://tinyurl.com/fake-bank
+ham	Hello, Just following up on our last chat. The meeting is moved to 3pm in room 204. Best, Chris
+spam	Subject: Your package could not be delivered - We detected unauthorized access. Confirm your details at the secure link to restore access. Click here now: http://secure-verify-account.com
+ham	Hey, Quick question for you. Please find the invoice for last month attached. Talk soon, Priya
+spam	Subject: Claim your refund immediately - Your payment could not be processed. Update your billing information immediately. Verify immediately: http://login-update-support.net
+ham	Dear, Wanted to share a small update. Lunch tomorrow at the usual place? Thanks, Liam
+spam	Subject: Your mailbox is almost full - Your account will be deactivated unless you login through the link below. Act now: http://bit.ly/3xPh1sh
+ham	Good morning, Thanks for your quick reply yesterday. The project timeline looks good to me. Regards, Nina
+spam	Subject: Security alert: Unusual activity - A refund of $499 is waiting. Submit your card number to receive it. Login to continue: http://paypa1-secure.ru
+ham	Hi, Hope you're doing well. Let me know if Thursday works for the call. Cheers, Omar
+spam	Subject: URGENT: Verify your account now - Reset your credentials using the link below to prevent lockout. Update your info: http://account-verify.xyz
+ham	Hello, Just following up on our last chat. Here are the notes from this morning's standup. Best, Alex
+spam	Subject: Your account has been suspended - Download the attached invoice to avoid legal action. Claim your prize: http://tinyurl.com/fake-bank
+ham	Hey, Quick question for you. Reminder: team sync is at 10am. Talk soon, Sam
+spam	Subject: You have won a $1000 gift card - Confirm your SSN and date of birth to unlock your account. Click here now: http://secure-verify-account.com
+ham	Dear, Wanted to share a small update. I'll be out of office on Friday. Thanks, Jordan
+spam	Subject: Action required: Confirm your password - Click the link below to verify your identity within 24 hours or your account will be closed. Verify immediately: http://login-update-support.net
+ham	Good morning, Thanks for your quick reply yesterday. Can you review the draft when you get a chance? Regards, Taylor
+spam	Subject: Final notice: Payment failed - We detected unauthorized access. Confirm your details at the secure link to restore access. Act now: http://bit.ly/3xPh1sh
+ham	Hi, Hope you're doing well. The meeting is moved to 3pm in room 204. Cheers, Morgan
+spam	Subject: Suspicious login detected - click here - Your payment could not be processed. Update your billing information immediately. Login to continue: http://paypa1-secure.ru
+ham	Hello, Just following up on our last chat. Please find the invoice for last month attached. Best, Chris
+spam	Subject: Your package could not be delivered - Your account will be deactivated unless you login through the link below. Update your info: http://account-verify.xyz
+ham	Hey, Quick question for you. Lunch tomorrow at the usual place? Talk soon, Priya
+spam	Subject: Claim your refund immediately - A refund of $499 is waiting. Submit your card number to receive it. Claim your prize: http://tinyurl.com/fake-bank
+ham	Dear, Wanted to share a small update. The project timeline looks good to me. Thanks, Liam
+spam	Subject: Your mailbox is almost full - Reset your credentials using the link below to prevent lockout. Click here now: http://secure-verify-account.com
+ham	Good morning, Thanks for your quick reply yesterday. Let me know if Thursday works for the call. Regards, Nina
+spam	Subject: Security alert: Unusual activity - Download the attached invoice to avoid legal action. Verify immediately: http://login-update-support.net
+ham	Hi, Hope you're doing well. Here are the notes from this morning's standup. Cheers, Omar
+spam	Subject: URGENT: Verify your account now - Confirm your SSN and date of birth to unlock your account. Act now: http://bit.ly/3xPh1sh
+ham	Hello, Just following up on our last chat. Reminder: team sync is at 10am. Best, Alex
+spam	Subject: Your account has been suspended - Click the link below to verify your identity within 24 hours or your account will be closed. Login to continue: http://paypa1-secure.ru
+ham	Hey, Quick question for you. I'll be out of office on Friday. Talk soon, Sam
+spam	Subject: You have won a $1000 gift card - We detected unauthorized access. Confirm your details at the secure link to restore access. Update your info: http://account-verify.xyz
+ham	Dear, Wanted to share a small update. Can you review the draft when you get a chance? Thanks, Jordan
+spam	Subject: Action required: Confirm your password - Your payment could not be processed. Update your billing information immediately. Claim your prize: http://tinyurl.com/fake-bank
+ham	Good morning, Thanks for your quick reply yesterday. The meeting is moved to 3pm in room 204. Regards, Taylor
+spam	Subject: Final notice: Payment failed - Your account will be deactivated unless you login through the link below. Click here now: http://secure-verify-account.com
+ham	Hi, Hope you're doing well. Please find the invoice for last month attached. Cheers, Morgan
+spam	Subject: Suspicious login detected - click here - A refund of $499 is waiting. Submit your card number to receive it. Verify immediately: http://login-update-support.net
+ham	Hello, Just following up on our last chat. Lunch tomorrow at the usual place? Best, Chris
+spam	Subject: Your package could not be delivered - Reset your credentials using the link below to prevent lockout. Act now: http://bit.ly/3xPh1sh
+ham	Hey, Quick question for you. The project timeline looks good to me. Talk soon, Priya
+spam	Subject: Claim your refund immediately - Download the attached invoice to avoid legal action. Login to continue: http://paypa1-secure.ru
+ham	Dear, Wanted to share a small update. Let me know if Thursday works for the call. Thanks, Liam
+spam	Subject: Your mailbox is almost full - Confirm your SSN and date of birth to unlock your account. Update your info: http://account-verify.xyz
+ham	Good morning, Thanks for your quick reply yesterday. Here are the notes from this morning's standup. Regards, Nina
+spam	Subject: Security alert: Unusual activity - Click the link below to verify your identity within 24 hours or your account will be closed. Claim your prize: http://tinyurl.com/fake-bank
+ham	Hi, Hope you're doing well. Reminder: team sync is at 10am. Cheers, Omar
+spam	Subject: URGENT: Verify your account now - We detected unauthorized access. Confirm your details at the secure link to restore access. Click here now: http://secure-verify-account.com
+ham	Hello, Just following up on our last chat. I'll be out of office on Friday. Best, Alex
+spam	Subject: Your account has been suspended - Your payment could not be processed. Update your billing information immediately. Verify immediately: http://login-update-support.net
+ham	Hey, Quick question for you. Can you review the draft when you get a chance? Talk soon, Sam
+spam	Subject: You have won a $1000 gift card - Your account will be deactivated unless you login through the link below. Act now: http://bit.ly/3xPh1sh
+ham	Dear, Wanted to share a small update. The meeting is moved to 3pm in room 204. Thanks, Jordan
+spam	Subject: Action required: Confirm your password - A refund of $499 is waiting. Submit your card number to receive it. Login to continue: http://paypa1-secure.ru
+ham	Good morning, Thanks for your quick reply yesterday. Please find the invoice for last month attached. Regards, Taylor
+spam	Subject: Final notice: Payment failed - Reset your credentials using the link below to prevent lockout. Update your info: http://account-verify.xyz
+ham	Hi, Hope you're doing well. Lunch tomorrow at the usual place? Cheers, Morgan
+spam	Subject: Suspicious login detected - click here - Download the attached invoice to avoid legal action. Claim your prize: http://tinyurl.com/fake-bank
+ham	Hello, Just following up on our last chat. The project timeline looks good to me. Best, Chris
+spam	Subject: Your package could not be delivered - Confirm your SSN and date of birth to unlock your account. Click here now: http://secure-verify-account.com
+ham	Hey, Quick question for you. Let me know if Thursday works for the call. Talk soon, Priya
+spam	Subject: Claim your refund immediately - Click the link below to verify your identity within 24 hours or your account will be closed. Verify immediately: http://login-update-support.net
+ham	Dear, Wanted to share a small update. Here are the notes from this morning's standup. Thanks, Liam
+spam	Subject: Your mailbox is almost full - We detected unauthorized access. Confirm your details at the secure link to restore access. Act now: http://bit.ly/3xPh1sh
+ham	Good morning, Thanks for your quick reply yesterday. Reminder: team sync is at 10am. Regards, Nina
+spam	Subject: Security alert: Unusual activity - Your payment could not be processed. Update your billing information immediately. Login to continue: http://paypa1-secure.ru
+ham	Hi, Hope you're doing well. I'll be out of office on Friday. Cheers, Omar
+spam	Subject: URGENT: Verify your account now - Your account will be deactivated unless you login through the link below. Update your info: http://account-verify.xyz
+ham	Hello, Just following up on our last chat. Can you review the draft when you get a chance? Best, Alex
+spam	Subject: Your account has been suspended - A refund of $499 is waiting. Submit your card number to receive it. Claim your prize: http://tinyurl.com/fake-bank
+ham	Hey, Quick question for you. The meeting is moved to 3pm in room 204. Talk soon, Sam
+spam	Subject: You have won a $1000 gift card - Reset your credentials using the link below to prevent lockout. Click here now: http://secure-verify-account.com
+ham	Dear, Wanted to share a small update. Please find the invoice for last month attached. Thanks, Jordan
+spam	Subject: Action required: Confirm your password - Download the attached invoice to avoid legal action. Verify immediately: http://login-update-support.net
+ham	Good morning, Thanks for your quick reply yesterday. Lunch tomorrow at the usual place? Regards, Taylor
+spam	Subject: Final notice: Payment failed - Confirm your SSN and date of birth to unlock your account. Act now: http://bit.ly/3xPh1sh
+ham	Hi, Hope you're doing well. The project timeline looks good to me. Cheers, Morgan
+spam	Subject: Suspicious login detected - click here - Click the link below to verify your identity within 24 hours or your account will be closed. Login to continue: http://paypa1-secure.ru
+ham	Hello, Just following up on our last chat. Let me know if Thursday works for the call. Best, Chris
+spam	Subject: Your package could not be delivered - We detected unauthorized access. Confirm your details at the secure link to restore access. Update your info: http://account-verify.xyz
+ham	Hey, Quick question for you. Here are the notes from this morning's standup. Talk soon, Priya
+spam	Subject: Claim your refund immediately - Your payment could not be processed. Update your billing information immediately. Claim your prize: http://tinyurl.com/fake-bank
+ham	Dear, Wanted to share a small update. Reminder: team sync is at 10am. Thanks, Liam
+spam	Subject: Your mailbox is almost full - Your account will be deactivated unless you login through the link below. Click here now: http://secure-verify-account.com
+ham	Good morning, Thanks for your quick reply yesterday. I'll be out of office on Friday. Regards, Nina
+spam	Subject: Security alert: Unusual activity - A refund of $499 is waiting. Submit your card number to receive it. Verify immediately: http://login-update-support.net
+ham	Hi, Hope you're doing well. Can you review the draft when you get a chance? Cheers, Omar
+spam	Subject: URGENT: Verify your account now - Reset your credentials using the link below to prevent lockout. Act now: http://bit.ly/3xPh1sh
+ham	Hello, Just following up on our last chat. The meeting is moved to 3pm in room 204. Best, Alex
+spam	Subject: Your account has been suspended - Download the attached invoice to avoid legal action. Login to continue: http://paypa1-secure.ru
+ham	Hey, Quick question for you. Please find the invoice for last month attached. Talk soon, Sam
+spam	Subject: You have won a $1000 gift card - Confirm your SSN and date of birth to unlock your account. Update your info: http://account-verify.xyz
+ham	Dear, Wanted to share a small update. Lunch tomorrow at the usual place? Thanks, Jordan
+spam	Subject: Action required: Confirm your password - Click the link below to verify your identity within 24 hours or your account will be closed. Claim your prize: http://tinyurl.com/fake-bank
+ham	Good morning, Thanks for your quick reply yesterday. The project timeline looks good to me. Regards, Taylor
+spam	Subject: Final notice: Payment failed - We detected unauthorized access. Confirm your details at the secure link to restore access. Click here now: http://secure-verify-account.com
+ham	Hi, Hope you're doing well. Let me know if Thursday works for the call. Cheers, Morgan
+spam	Subject: Suspicious login detected - click here - Your payment could not be processed. Update your billing information immediately. Verify immediately: http://login-update-support.net
+ham	Hello, Just following up on our last chat. Here are the notes from this morning's standup. Best, Chris
+spam	Subject: Your package could not be delivered - Your account will be deactivated unless you login through the link below. Act now: http://bit.ly/3xPh1sh
+ham	Hey, Quick question for you. Reminder: team sync is at 10am. Talk soon, Priya
+spam	Subject: Claim your refund immediately - A refund of $499 is waiting. Submit your card number to receive it. Login to continue: http://paypa1-secure.ru
+ham	Dear, Wanted to share a small update. I'll be out of office on Friday. Thanks, Liam
+spam	Subject: Your mailbox is almost full - Reset your credentials using the link below to prevent lockout. Update your info: http://account-verify.xyz
+ham	Good morning, Thanks for your quick reply yesterday. Can you review the draft when you get a chance? Regards, Nina
+spam	Subject: Security alert: Unusual activity - Download the attached invoice to avoid legal action. Claim your prize: http://tinyurl.com/fake-bank
+ham	Hi, Hope you're doing well. The meeting is moved to 3pm in room 204. Cheers, Omar
+spam	Subject: URGENT: Verify your account now - Confirm your SSN and date of birth to unlock your account. Click here now: http://secure-verify-account.com
+ham	Hello, Just following up on our last chat. Please find the invoice for last month attached. Best, Alex
+spam	Subject: Your account has been suspended - Click the link below to verify your identity within 24 hours or your account will be closed. Verify immediately: http://login-update-support.net
+ham	Hey, Quick question for you. Lunch tomorrow at the usual place? Talk soon, Sam
+spam	Subject: You have won a $1000 gift card - We detected unauthorized access. Confirm your details at the secure link to restore access. Act now: http://bit.ly/3xPh1sh
+ham	Dear, Wanted to share a small update. The project timeline looks good to me. Thanks, Jordan
+spam	Subject: Action required: Confirm your password - Your payment could not be processed. Update your billing information immediately. Login to continue: http://paypa1-secure.ru
+ham	Good morning, Thanks for your quick reply yesterday. Let me know if Thursday works for the call. Regards, Taylor
+spam	Subject: Final notice: Payment failed - Your account will be deactivated unless you login through the link below. Update your info: http://account-verify.xyz
+ham	Hi, Hope you're doing well. Here are the notes from this morning's standup. Cheers, Morgan
+spam	Subject: Suspicious login detected - click here - A refund of $499 is waiting. Submit your card number to receive it. Claim your prize: http://tinyurl.com/fake-bank
+ham	Hello, Just following up on our last chat. Reminder: team sync is at 10am. Best, Chris
+spam	Subject: Your package could not be delivered - Reset your credentials using the link below to prevent lockout. Click here now: http://secure-verify-account.com
+ham	Hey, Quick question for you. I'll be out of office on Friday. Talk soon, Priya
+spam	Subject: Claim your refund immediately - Download the attached invoice to avoid legal action. Verify immediately: http://login-update-support.net
+ham	Dear, Wanted to share a small update. Can you review the draft when you get a chance? Thanks, Liam
+spam	Subject: Your mailbox is almost full - Confirm your SSN and date of birth to unlock your account. Act now: http://bit.ly/3xPh1sh
+ham	Good morning, Thanks for your quick reply yesterday. The meeting is moved to 3pm in room 204. Regards, Nina
+spam	Subject: Security alert: Unusual activity - Click the link below to verify your identity within 24 hours or your account will be closed. Login to continue: http://paypa1-secure.ru
+ham	Hi, Hope you're doing well. Please find the invoice for last month attached. Cheers, Omar
+spam	Subject: URGENT: Verify your account now - We detected unauthorized access. Confirm your details at the secure link to restore access. Update your info: http://account-verify.xyz
+ham	Hello, Just following up on our last chat. Lunch tomorrow at the usual place? Best, Alex
+spam	Subject: Your account has been suspended - Your payment could not be processed. Update your billing information immediately. Claim your prize: http://tinyurl.com/fake-bank
+ham	Hey, Quick question for you. The project timeline looks good to me. Talk soon, Sam
+spam	Subject: You have won a $1000 gift card - Your account will be deactivated unless you login through the link below. Click here now: http://secure-verify-account.com
+ham	Dear, Wanted to share a small update. Let me know if Thursday works for the call. Thanks, Jordan
+spam	Subject: Action required: Confirm your password - A refund of $499 is waiting. Submit your card number to receive it. Verify immediately: http://login-update-support.net
+ham	Good morning, Thanks for your quick reply yesterday. Here are the notes from this morning's standup. Regards, Taylor
+spam	Subject: Final notice: Payment failed - Reset your credentials using the link below to prevent lockout. Act now: http://bit.ly/3xPh1sh
+ham	Hi, Hope you're doing well. Reminder: team sync is at 10am. Cheers, Morgan
+spam	Subject: Suspicious login detected - click here - Download the attached invoice to avoid legal action. Login to continue: http://paypa1-secure.ru
+ham	Hello, Just following up on our last chat. I'll be out of office on Friday. Best, Chris
+spam	Subject: Your package could not be delivered - Confirm your SSN and date of birth to unlock your account. Update your info: http://account-verify.xyz
+ham	Hey, Quick question for you. Can you review the draft when you get a chance? Talk soon, Priya
+spam	Subject: Claim your refund immediately - Click the link below to verify your identity within 24 hours or your account will be closed. Claim your prize: http://tinyurl.com/fake-bank
+ham	Dear, Wanted to share a small update. The meeting is moved to 3pm in room 204. Thanks, Liam
+spam	Subject: Your mailbox is almost full - We detected unauthorized access. Confirm your details at the secure link to restore access. Click here now: http://secure-verify-account.com
+ham	Good morning, Thanks for your quick reply yesterday. Please find the invoice for last month attached. Regards, Nina
+spam	Subject: Security alert: Unusual activity - Your payment could not be processed. Update your billing information immediately. Verify immediately: http://login-update-support.net
+ham	Hi, Hope you're doing well. Lunch tomorrow at the usual place? Cheers, Omar
+spam	Subject: URGENT: Verify your account now - Your account will be deactivated unless you login through the link below. Act now: http://bit.ly/3xPh1sh
+ham	Hello, Just following up on our last chat. The project timeline looks good to me. Best, Alex
+spam	Subject: Your account has been suspended - A refund of $499 is waiting. Submit your card number to receive it. Login to continue: http://paypa1-secure.ru
+ham	Hey, Quick question for you. Let me know if Thursday works for the call. Talk soon, Sam
+spam	Subject: You have won a $1000 gift card - Reset your credentials using the link below to prevent lockout. Update your info: http://account-verify.xyz
+ham	Dear, Wanted to share a small update. Here are the notes from this morning's standup. Thanks, Jordan
+spam	Subject: Action required: Confirm your password - Download the attached invoice to avoid legal action. Claim your prize: http://tinyurl.com/fake-bank
+ham	Good morning, Thanks for your quick reply yesterday. Reminder: team sync is at 10am. Regards, Taylor
+spam	Subject: Final notice: Payment failed - Confirm your SSN and date of birth to unlock your account. Click here now: http://secure-verify-account.com
+ham	Hi, Hope you're doing well. I'll be out of office on Friday. Cheers, Morgan
+spam	Subject: Suspicious login detected - click here - Click the link below to verify your identity within 24 hours or your account will be closed. Verify immediately: http://login-update-support.net
+ham	Hello, Just following up on our last chat. Can you review the draft when you get a chance? Best, Chris
+spam	Subject: Your package could not be delivered - We detected unauthorized access. Confirm your details at the secure link to restore access. Act now: http://bit.ly/3xPh1sh
+ham	Hey, Quick question for you. The meeting is moved to 3pm in room 204. Talk soon, Priya
+spam	Subject: Claim your refund immediately - Your payment could not be processed. Update your billing information immediately. Login to continue: http://paypa1-secure.ru
+ham	Dear, Wanted to share a small update. Please find the invoice for last month attached. Thanks, Liam
+spam	Subject: Your mailbox is almost full - Your account will be deactivated unless you login through the link below. Update your info: http://account-verify.xyz
+ham	Good morning, Thanks for your quick reply yesterday. Lunch tomorrow at the usual place? Regards, Nina
+spam	Subject: Security alert: Unusual activity - A refund of $499 is waiting. Submit your card number to receive it. Claim your prize: http://tinyurl.com/fake-bank
+ham	Hi, Hope you're doing well. The project timeline looks good to me. Cheers, Omar
+spam	Subject: URGENT: Verify your account now - Reset your credentials using the link below to prevent lockout. Click here now: http://secure-verify-account.com
+ham	Hello, Just following up on our last chat. Let me know if Thursday works for the call. Best, Alex
+spam	Subject: Your account has been suspended - Download the attached invoice to avoid legal action. Verify immediately: http://login-update-support.net
+ham	Hey, Quick question for you. Here are the notes from this morning's standup. Talk soon, Sam
+spam	Subject: You have won a $1000 gift card - Confirm your SSN and date of birth to unlock your account. Act now: http://bit.ly/3xPh1sh
+ham	Dear, Wanted to share a small update. Reminder: team sync is at 10am. Thanks, Jordan
+spam	Subject: Action required: Confirm your password - Click the link below to verify your identity within 24 hours or your account will be closed. Login to continue: http://paypa1-secure.ru
+ham	Good morning, Thanks for your quick reply yesterday. I'll be out of office on Friday. Regards, Taylor
+spam	Subject: Final notice: Payment failed - We detected unauthorized access. Confirm your details at the secure link to restore

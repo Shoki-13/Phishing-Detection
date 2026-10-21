@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% block title %}Create account | PhishGuard{% endblock %}
+{% block body_class %}auth-screen{% endblock %}
+{% block main_class %}full-bleed{% endblock %}
+
+{% block content %}
+<div class="auth-wrap">
+  <div class="auth-card">
+    <span class="auth-eyebrow">🛡 Get started</span>
+    <h2>Create your account</h2>
+    <p class="muted mb-0">Free, and takes less than a minute.</p>
+
+    <form method="POST" class="mt-2">
+      <div class="field">
+        <label for="name">Full name</label>
+        <input type="text" id="name" name="name" required autofocus placeholder="Your full name" value="{{ request.form.get('name', '') }}">
+      </div>
+      <div class="field">
+        <label for="email">Email address</label>
+        <input type="email" id="email" name="email" required placeholder="you@example.com" value="{{ request.form.get('email', '') }}">
+      </div>
+      <div class="field">
+        <label for="password">Password</label>
+        <input type="password" id="password" name="password" required placeholder="At least 8 characters">
+        <p class="field-hint">Use at least 8 characters. Mix in a number or symbol for a stronger password.</p>
+      </div>
+      <div class="field">
+        <label for="confirm_password">Confirm password</label>
+        <input type="password" id="confirm_password" name="confirm_password" required placeholder="Repeat your password">
+      </div>
+      <button type="submit" class="btn btn-primary btn-block">Create account</button>
+    </form>
+
+    <p class="auth-foot">Already have an account? <a href="{{ url_for('login') }}" class="underline-link">Sign in</a></p>
+  </div>
+</div>
+{% endblock %}

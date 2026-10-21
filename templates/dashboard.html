@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+{% block title %}Dashboard | PhishGuard{% endblock %}
+
+{% block content %}
+<div class="flex-between" style="margin-bottom:1.75rem;">
+  <div>
+    <h1 class="mb-0">Welcome back, {{ current_user['name'].split(' ')[0] }}</h1>
+    <p class="muted mb-0">Here's what your inbox has been up to.</p>
+  </div>
+  <a href="{{ url_for('analyze') }}" class="btn btn-gold">+ New analysis</a>
+</div>
+
+<div class="grid-3" style="margin-bottom:2rem;">
+  <div class="stat-card">
+    <div class="stat-label">Emails analyzed</div>
+    <div class="stat-value">{{ stats['total'] or 0 }}</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-label">Flagged high risk</div>
+    <div class="stat-value">{{ stats['risky'] or 0 }}</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-label">Average risk score</div>
+    <div class="stat-value">{{ (stats['avg_score'] or 0) | round(0, 'floor') | int }}</div>
+  </div>
+</div>
+
+<div class="card">
+  <div class="flex-between" style="margin-bottom:1rem;">
+    <h3 class="mb-0">Recent analyses</h3>
+    <a href="{{ url_for('samples') }}" class="underline-link muted" style="font-size:0.9rem;">Need something to test? Generate samples →</a>
+  </div>
+
+  {% if recent %}
+    <div style="overflow-x:auto;">
+    <table class="history-table">
+      <thead>
+        <tr><th>Subject</th><th>Sender</th><th>Score</th><th>Risk</th><th>Flags</th><th>When</th><th></th></tr>
+      </thead>
+      <tbody>
+        {% for row in recent %}
+        <tr>
+          <td>{{ row['subject'] or '-' }}</td>
+          <td class="muted">{{ row['sender'] or '-' }}</td>
+          <td><strong>{{ row['score'] }}</strong>/100</td>
+          <td><span class="risk-level-pill level-{{ row['risk_level'] }}">{{ row['risk_level'] }}</span></td>
+          <td class="muted">{{ row['flag_count'] }}</td>
+          <td class="muted">{{ row['created_at'][:16] }}</td>
+          <td><a href="{{ url_for('view_analysis', analysis_id=row['id']) }}" class="underline-link">View</a></td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    </div>
+  {% else %}
+    <p class="muted">No analyses yet. <a href="{{ url_for('analyze') }}" class="underline-link">Analyze your first email</a> to see it show up here.</p>
+  {% endif %}
+</div>
+{% endblock %}

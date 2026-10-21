@@ -1,0 +1,60 @@
+{% extends "base.html" %}
+{% block title %}PhishGuard: Know before you click{% endblock %}
+{% block body_class %}auth-screen{% endblock %}
+{% block main_class %}full-bleed{% endblock %}
+
+{% block content %}
+<section class="hero">
+  <div class="hero-inner">
+    <span class="auth-eyebrow">🛡 Phishing detection, made calm</span>
+    <h1>Read every email with a little more certainty.</h1>
+    <p class="lead">
+      PhishGuard scans a pasted or uploaded email, scores its risk as a percentage,
+      and explains exactly what raised the alarm: mismatched senders,
+      lookalike domains, urgent language, and more. No inbox access required.
+    </p>
+    {% if not current_user %}
+    <p class="lead" style="font-size:1rem; margin-top:1.5rem; margin-bottom:0;">Sign in or create an account to get started.</p>
+    {% endif %}
+    <div class="btn-row">
+      {% if current_user %}
+        <a href="{{ url_for('analyze') }}" class="btn btn-gold">Analyze an email</a>
+        <a href="{{ url_for('dashboard') }}" class="btn btn-ghost" style="color:#fff9ef;border-color:rgba(255,255,255,.45);">Go to dashboard</a>
+      {% else %}
+        <a href="{{ url_for('register') }}" class="btn btn-gold">Create Account</a>
+        <a href="{{ url_for('login') }}" class="btn btn-ghost" style="color:#fff9ef;border-color:rgba(255,255,255,.45);">Sign In</a>
+      {% endif %}
+    </div>
+  </div>
+</section>
+
+<section class="feature-strip">
+  <div class="grid-3">
+    <div class="card-quiet">
+      <div class="feature-icon">🎯</div>
+      <h3>Risk scoring</h3>
+      <p class="muted">Every email receives a clear risk percentage and a rating of Low, Medium, High, or Critical, backed by a breakdown of exactly why.</p>
+    </div>
+    <div class="card-quiet">
+      <div class="feature-icon">🔍</div>
+      <h3>Ten system checks</h3>
+      <p class="muted">Sender spoofing, lookalike domains, mismatched link text, urgency language, credential harvesting, and more, all explained in plain language.</p>
+    </div>
+    <div class="card-quiet">
+      <div class="feature-icon">✉️</div>
+      <h3>Sample generator</h3>
+      <p class="muted">Generate realistic phishing and legitimate emails on demand to practice spotting the difference, or to stress test the detector.</p>
+    </div>
+  </div>
+</section>
+
+<section class="trust-section">
+  <div class="trust-badge">
+    <div class="trust-seal">🛡<span>10-point<br>check</span></div>
+    <div>
+      <h3>Every email gets the same ten system checks</h3>
+      <p class="muted mb-0">PhishGuard runs each message through ten phishing indicators and shows you exactly which ones triggered, so nothing is left to guesswork.</p>
+    </div>
+  </div>
+</section>
+{% endblock %}

@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block title %}Samples | PhishGuard{% endblock %}
+
+{% block content %}
+<div class="flex-between" style="margin-bottom:0.5rem;">
+  <div>
+    <h1 class="mb-0">Sample emails</h1>
+    <p class="muted mb-0">Generate realistic phishing and legitimate emails to test the detector, or to practice spotting the difference yourself.</p>
+  </div>
+</div>
+
+<form method="POST" class="flex-between card-quiet" style="margin:1.5rem 0;">
+  <div style="display:flex; gap:0.75rem; align-items:center;">
+    <label for="category" class="mb-0">Generate:</label>
+    <select id="category" name="category" style="width:auto;">
+      <option value="phishing">Phishing examples</option>
+      <option value="legitimate">Legitimate examples</option>
+    </select>
+  </div>
+  <button type="submit" class="btn btn-gold">Generate new batch</button>
+</form>
+
+<div class="grid-2">
+  {% for sample in batch %}
+  <div class="sample-card">
+    <div class="sample-card-head">
+      <span class="tag tag-{{ sample.category }}">{{ sample.category }}</span>
+      <span class="muted" style="font-size:0.82rem;">{{ sample.brand }}</span>
+    </div>
+    <div class="sample-body">Subject: {{ sample.subject }}
+From: {{ sample['from'] }}
+Reply-To: {{ sample.reply_to }}
+
+{{ sample.body }}</div>
+    <div class="sample-card-foot">
+      <form method="POST" action="{{ url_for('analyze') }}">
+        <input type="hidden" name="email_text" value="{{ sample.raw }}">
+        <button type="submit" class="btn btn-ghost btn-block">Send to analyzer →</button>
+      </form>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+{% endblock %}

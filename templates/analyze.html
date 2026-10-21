@@ -1,0 +1,90 @@
+{% extends "base.html" %}
+{% block title %}Analyze | PhishGuard{% endblock %}
+
+{% block content %}
+<h1>Analyze an email</h1>
+<p class="muted" style="margin-top:-0.6rem;">Paste the email straight from Gmail (or any inbox), including the sender and subject if you can, or upload a .txt/.eml file.</p>
+
+<div class="grid-2" style="align-items:start; margin-top:1.5rem;">
+  <div class="card">
+    <form method="POST" enctype="multipart/form-data">
+      <div class="field">
+        <label for="email_text">Email content</label>
+        <textarea id="email_text" name="email_text" placeholder="From: &quot;PayPal Security&quot; <no-reply@paypal-secure-verify.com>&#10;Subject: Your account has been limited&#10;Reply-To: support@random-mail.ru&#10;&#10;Dear Customer, we noticed unusual activity...">{{ raw_email }}</textarea>
+      </div>
+      <div class="field">
+        <label for="email_file">...or upload a file</label>
+        <input type="file" id="email_file" name="email_file" accept=".txt,.eml">
+      </div>
+      <button type="submit" class="btn btn-primary btn-block">Analyze for phishing</button>
+    </form>
+  </div>
+
+  <div>
+    {% if result %}
+      <div class="risk-banner card">
+        <div class="risk-ring" style="--pct:{{ result.score }}; --ring-color: {% if result.risk_level=='Low' %}var(--sage){% elif result.risk_level=='Medium' %}var(--gold-500){% elif result.risk_level=='High' %}var(--rust){% else %}var(--plum-950){% endif %};">
+          <div class="risk-ring-inner">
+            <strong>{{ result.score }}</strong>
+            <span>/ 100</span>
+          </div>
+        </div>
+        <div>
+          <span class="risk-level-pill level-{{ result.risk_level }}">{{ result.risk_level }} risk</span>
+          <h3 style="margin-top:0.5rem;">{{ result.subject }}</h3>
+          <p class="muted mb-0">From: {{ result.sender }}{% if result.reply_to %} · Replies to: {{ result.reply_to }}{% endif %}</p>
+        </div>
+      </div>
+
+      <div style="margin-bottom:1.25rem;">
+        <a href="{{ url_for('analyze') }}" class="btn btn-gold">Analyse New Email</a>
+        {% if past %}<a href="{{ url_for('dashboard') }}" class="btn btn-ghost">Back to dashboard</a>{% endif %}
+      </div>
+
+      <div class="card-quiet" style="margin-bottom:1.25rem;">
+        <strong style="color:var(--plum-800);">What you should do:</strong>
+        <span class="muted">{{ result.recommendation }}</span>
+        {% if result.actions %}
+        <ul class="action-list">
+          {% for a in result.actions %}<li>{{ a }}</li>{% endfor %}
+        </ul>
+        {% endif %}
+      </div>
+
+      {% if result.summary_only %}
+        <p class="muted">This analysis was saved before full reports were stored, so only its summary is available ({{ result.summary_only }} finding{{ 's' if result.summary_only != 1 }}). Analyze the email again to see the full breakdown.</p>
+      {% elif result.flags %}
+        <h3>What we found ({{ result.flags|length }})</h3>
+        <ul class="flag-list">
+          {% for flag in result.flags %}
+          <li class="flag-item sev-{{ flag.severity }}">
+            <div class="flag-sev"></div>
+            <div>
+              <h4>{{ flag.label }}</h4>
+              <p class="muted">{{ flag.detail }}</p>
+            </div>
+            <div class="flag-weight">+{{ flag.weight }}</div>
+          </li>
+          {% endfor %}
+        </ul>
+      {% else %}
+        <p class="muted">No suspicious patterns detected by our system checks. Stay cautious with any unexpected request for money, passwords or personal details.</p>
+      {% endif %}
+
+      {% if result.urls %}
+        <h3 class="mt-2">Links found</h3>
+        <ul class="flag-list">
+          {% for u in result.urls %}
+            <li class="flag-item" style="font-family:'JetBrains Mono','Courier New',monospace; font-size:0.82rem; word-break:break-all;">{{ u }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    {% else %}
+      <div class="card-quiet text-center" style="padding:3rem 1.5rem;">
+        <div style="font-size:2.2rem;">📬</div>
+        <p class="muted mb-0">Your risk report will appear here once you analyze an email.</p>
+      </div>
+    {% endif %}
+  </div>
+</div>
+{% endblock %}
